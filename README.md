@@ -155,8 +155,7 @@ python inference.py --backbones eva02_large dinov2_large --tta --validate
 python inference.py --backbones eva02_large dinov2_large --tta --temperature 1.0
 ```
 
-### Google Colab (A100)<img width="835" height="465" alt="스크린샷 2026-05-28 오후 1 58 47" src="https://github.com/user-attachments/assets/f5c1043d-6af6-4840-ac49-b17c51e0b6a0" />
-
+### Google Colab (A100)
 
 `colab_train.ipynb`를 Colab에 업로드하여 사용합니다. 체크포인트는 Google Drive에 자동 저장되어 세션이 끊겨도 이어서 학습이 가능합니다. 상세 사용법은 노트북 내 셀 주석을 참고하세요.
 
